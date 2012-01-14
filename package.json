@@ -1,0 +1,15 @@
+{
+	"name" : "company_website",
+	"version" : "0.0.1",
+	"description" : "company website of That Extra Mile",
+	"private" : true,
+	"main" : "app.js",
+	"dependencies" :
+	{
+		"express" : ">= 2.5",
+		"ejs": ">= 0.6",
+		"nodepie": ">= 0.4.0",
+		"request": ">= 2.2.9",
+		"markdown": ">= 0.3.1"
+	}
+}
