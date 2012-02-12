@@ -1,6 +1,6 @@
 # NHibernate training course
 
-As a former member of the NHibernate development team and a long time user of NHibernate in real-world projects, I wanted to offer a course that teaches people how NHibernate really works and how they can get the best possible results from using it. 
+As a former member of the NHibernate development team and a long time user of NHibernate in real-world projects, I wanted to offer a course that teaches people how NHibernate really works and how they can get the best possible results from using it. The next public course will be held from **April 23rd through April 25th 2012 in Mechelen, Belgium**.
 
 - more details on my [NHibernate Training Course](/training/nhibernate)
 
