@@ -1,7 +1,8 @@
 # NHibernate Training
 
 Date: **April 23-25, 2012** <br/>
-Location: **Mechelen, Belgium**
+Location: **Mechelen, Belgium** <br/>
+Registration closes on **March 31st, 2012**
 
 ## Pricing
 
