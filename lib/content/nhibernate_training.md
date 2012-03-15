@@ -1,18 +1,5 @@
 # NHibernate Training
 
-Date: **April 23-25, 2012** <br/>
-Location: **Mechelen, Belgium** <br/>
-Registration closes on **March 31st, 2012**
-
-## Pricing
-
-1 participant: **1200€** <br/>
-2 participants: **1100€ per participant** <br/>
-3 or more participants: **1000€ per participant** <br/>
-All prices are excluding VAT, and include lunch, warm and cold beverages throughout the day and free parking. Note that participants are required to bring their own laptop with a pre-installed Visual Studio 2008 Professional (or higher) or Visual Studio 2010 Professional (or higher).
-
-If you're interested in this course, [send me an email](mailto:davy.brion@thatextramile.be) with your company details, the number of participants and their names, and I'll send you a quote.
-
 ## Course description
 NHibernate is the most powerful and advanced Object Relational Mapper available for the .NET platform. But with great power comes great responsibility and typically, a steep learning curve. This course aims to lower that learning curve to 3 intensive days where participants will learn all about the most important features of NHibernate, as well as be instructed on how to use those features responsibly to achieve the best possible results.
 
